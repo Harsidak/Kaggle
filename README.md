@@ -3,7 +3,6 @@
 This repository contains all my Kaggle notebooks and workflows, featuring advanced, production-grade pipelines developed for high-tier competitions. This workspace currently showcases state-of-the-art architectures for both **Protein Function Prediction** using protein Language Models (pLMs) and **Large Language Model (LLM) Reinforcement Learning** for reasoning alignment.
 
 Please do Visit my [KaggleProfile](https://www.kaggle.com/banwait13)
-
 ---
 
 
@@ -49,7 +48,7 @@ To run these pipelines locally or in a cloud instance:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/Harsidak/Kaggle.git>
 cd Kaggle
 
 # Install dependencies
@@ -59,3 +58,6 @@ pip install -r requirements.txt
 ## 📜 License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+
+
+Made by Love by Banwait.
