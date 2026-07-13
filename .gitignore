@@ -5,6 +5,10 @@
 */.ipynb_checkpoints/*
 *.ipynb_checkpoints
 
+
+#Claude
+CLAUDE.md 
+.claude/
 # Kaggle Inputs / Datasets (Keep data out of git)
 input/
 data/
@@ -90,3 +94,6 @@ lightning_logs/
 .idea/
 .DS_Store
 Thumbs.db
+
+
+ARC_AGI EXPERMENTATIONS/
